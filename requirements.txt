@@ -1,0 +1,10 @@
+pandas
+pandas_gbq
+numpy
+flatten_json
+google-cloud-storage
+google-cloud-bigquery
+pyarrow
+unicode
+unicodedata2
+datetime
